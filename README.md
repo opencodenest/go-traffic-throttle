@@ -11,7 +11,7 @@
 ## Installation
 
 ```bash
-go get github.com/OpenCodeNest/go-traffic-throttle
+go get github.com/opencodenest/go-traffic-throttle
 ```
 
 ## Usage
@@ -26,7 +26,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/OpenCodeNest/go-traffic-throttle/throttle"
+	"github.com/opencodenest/go-traffic-throttle/throttle"
 )
 
 func main() {
